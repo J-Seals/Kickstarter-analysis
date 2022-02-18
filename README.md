@@ -3,7 +3,7 @@ Performing analysis on Kickstarter data to uncover trends
 ### Findings
 By dissecting the data and comparing Parent Categories, we see that the category Theater had a much higher outcome rate compared to other categories.
 
-![](images/Parent%20Category%20Outcomes.png)
+![](images/Parent20%Category20%Outcomes.png)
 
 Within the Theater Category, a little more than half of the outcomes were successful. Meaning that, those that were successful met their goal.
 
