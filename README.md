@@ -21,7 +21,7 @@ half of the campaigns failed. Campaigns with goals between 25000 and 34999 and o
 Lastly, goals set between 35000 to 44999 had asimilar success and fail rate to those campaigns whose goals were under 5000.
 ![](Resources/Outcomes_vs_Goals.png)
 
-### Challenges and Difficulties Encounteres 
+### Challenges and Difficulties Encountered
 There were not any difficulties or challenges faced during the data collection or analysis. However, there is a possible challenge 
 in assuring the accuracy in percentages when breaking the goals down into categories. Since the goals are rounded to whole numbers, it
 changes which category a goal would fall into.
